@@ -1,0 +1,27 @@
+
+{
+  "updated_at": null,
+  "projects": {
+    "southpoint_connect": {
+      "name": "SouthPoint Connect",
+      "progress": 20,
+      "previous_progress": 20,
+      "summary": "Early platform development",
+      "next_milestone": "Build core client dashboard"
+    },
+    "jd_cuts": {
+      "name": "JD Cuts",
+      "progress": 40,
+      "previous_progress": 40,
+      "summary": "Website and booking development",
+      "next_milestone": "Complete booking integration"
+    },
+    "am_skin_therapy": {
+      "name": "AM Skin Therapy",
+      "progress": 70,
+      "previous_progress": 70,
+      "summary": "Website development",
+      "next_milestone": "Connect Square and test deployment"
+    }
+  }
+}
