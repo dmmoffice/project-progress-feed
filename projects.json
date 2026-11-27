@@ -1,6 +1,5 @@
-
 {
-  "updated_at": null,
+  "updated_at": "2026-11-27T22:46:53.414Z",
   "projects": {
     "southpoint_connect": {
       "name": "SouthPoint Connect",
@@ -18,10 +17,11 @@
     },
     "am_skin_therapy": {
       "name": "AM Skin Therapy",
-      "progress": 70,
+      "progress": 80,
       "previous_progress": 70,
-      "summary": "Website development",
-      "next_milestone": "Connect Square and test deployment"
+      "summary": "Website deployed; additional services and site presentation refined; booking and final verification remain.",
+      "next_milestone": "Complete live booking integration and final visual and launch testing",
+      "updated_at": "2026-11-27T22:46:53.414Z"
     }
   }
 }
